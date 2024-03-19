@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"golang/pattern/04-singleton/singleton"
+	"golang/pattern/04-creational-pattern-singleton/singleton"
 	"time"
 )
 

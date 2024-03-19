@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"golang/pattern/06-abstract-factory/abstractfactory"
+	"golang/pattern/06-creational-pattern-abstract-factory/abstractfactory"
 )
 
 func main() {

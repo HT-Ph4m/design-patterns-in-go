@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"golang/pattern/07-prototype/prototype"
+	"golang/pattern/07-creational-pattern-prototype/prototype"
 )
 
 func main() {
